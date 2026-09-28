@@ -15,7 +15,7 @@ DMAIC
 - Define (5 Why, CTQ, Cost Benefit Analysis)
 - Measure (Fishbone diagram -Root cause analysis, sigma level)
 - Analyze ( Pareto Diagram, Process Mapping)
-- Improve ( %s, POKA Yoke, SMED, FMEA )
+- Improve ( 5s, POKA Yoke, SMED, FMEA )
 - Control (Statistical Process Control)
 
 RESULTS:
